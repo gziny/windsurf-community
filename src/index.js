@@ -8,7 +8,7 @@ import routes from './routes';
 // import { App } from './app/components';`
 import * as dataActions from './data/actions';
 import './styles/index.scss';
-
+//alon green was here
 const rootElement = document.querySelector('#app-root');
 
 // Create an enhanced history that syncs navigation events with the store
